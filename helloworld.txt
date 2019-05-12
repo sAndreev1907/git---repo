@@ -1,3 +1,4 @@
-print("Hello World!")
-print("Hello everyone")
-print("Hello ladies")
+
+print("Hello World!");
+print("Hello everyone");
+print("Hello ladies");
