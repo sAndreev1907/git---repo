@@ -1,0 +1,2 @@
+print("Ladies, your beauty are too bright, i should leave")
+print("Goodbye")
